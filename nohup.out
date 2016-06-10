@@ -1,0 +1,71 @@
+[10/Jun/2016 09:15:44] "GET /admin/blog/post/ HTTP/1.1" 200 4320
+[10/Jun/2016 09:15:44] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+[10/Jun/2016 09:15:44] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Jun/2016 09:15:44] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /admin/blog/post/ HTTP/1.1" 200 4544
+[10/Jun/2016 09:21:06] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+[10/Jun/2016 09:21:06] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:21:06] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:21:07] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Jun/2016 09:21:08] "GET /admin/blog/post/2/change/ HTTP/1.1" 200 7654
+[10/Jun/2016 09:21:08] "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+[10/Jun/2016 09:21:11] "GET /admin/blog/post/ HTTP/1.1" 200 4544
+[10/Jun/2016 09:26:25] "GET /admin/blog/post/ HTTP/1.1" 200 4544
+[10/Jun/2016 09:26:25] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+[10/Jun/2016 09:26:25] "GET /static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[10/Jun/2016 09:26:25] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[10/Jun/2016 09:26:33] "GET /admin/blog/post/2/change/ HTTP/1.1" 200 7690
+[10/Jun/2016 09:26:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3189
+[10/Jun/2016 09:26:35] "GET /admin/blog/post/ HTTP/1.1" 200 4544
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2016 - 09:15:21
+Django version 1.9.6, using settings 'mysite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2016 - 12:16:01
+Django version 1.9.6, using settings 'mysite.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
