@@ -1,1 +1,1 @@
-nohup python manage.py runserver 0.0.0.0:8000 & > server.log 
+nohup python manage.py runserver 192.168.0.108:8000 & > server.log 
