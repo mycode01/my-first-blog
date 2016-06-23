@@ -342,3 +342,5 @@ Traceback (most recent call last):
   File "/home/pi/django/myvenv/lib/python3.4/site-packages/django/db/models/fields/related_descriptors.py", line 207, in __set__
     self.field.remote_field.model._meta.object_name,
 ValueError: Cannot assign "<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x7479e290>>": "Post.author" must be a "User" instance.
+[14/Jun/2016 15:36:43] "POST /post/new/ HTTP/1.1" 500 64902
+Not Found: /http:/www.baidu.com/
